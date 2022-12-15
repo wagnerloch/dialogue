@@ -1,0 +1,138 @@
+{
+   "name": "Small talks",
+   "id": "ZmC9_pJM",
+   "characters": [
+      {
+         "id": "J_2HaWpj",
+         "name": "Tony"
+      },
+      {
+         "id": "eRslCuy7",
+         "name": "Max"
+      }
+   ],
+   "chats": [
+      {
+         "id": "0S-EVw_x",
+         "name": "Shelf",
+         "nodes": [
+            {
+               "id": "YyuGFlkG",
+               "type": "text",
+               "message": "What's on your mind, Max?",
+               "character": "J_2HaWpj",
+               "goesTo": [
+                  "la6hPnIH",
+                  "E0V0lqSO"
+               ]
+            },
+            {
+               "id": "E0V0lqSO",
+               "type": "answer",
+               "message": "I'm not sure actually. Sometimes I get lost in my own thoughts.",
+               "character": "eRslCuy7",
+               "goesTo": [
+                  "i6Pa2gy7"
+               ]
+            },
+            {
+               "id": "la6hPnIH",
+               "type": "answer",
+               "message": "...I'm thinking about getting a glass of soda. Do you want one? ",
+               "character": "eRslCuy7",
+               "goesTo": [
+                  "r0xi--tE"
+               ]
+            },
+            {
+               "id": "r0xi--tE",
+               "type": "text",
+               "message": "I think so, yeah. Do you know about the news?",
+               "character": "J_2HaWpj",
+               "goesTo": [
+                  "jPqc0CX5",
+                  "uiFvU1id"
+               ]
+            },
+            {
+               "id": "i6Pa2gy7",
+               "type": "text",
+               "message": "I understand, buddy. I feel the same. After all, we ain't living forever, right? Nothing matters much.",
+               "character": "J_2HaWpj",
+               "goesTo": [
+                  "RsEp79un",
+                  "la6hPnIH"
+               ]
+            },
+            {
+               "id": "uiFvU1id",
+               "type": "answer",
+               "message": "Which news?",
+               "character": "eRslCuy7",
+               "goesTo": [
+                  "Vl6u-CNb"
+               ]
+            },
+            {
+               "id": "jPqc0CX5",
+               "type": "answer",
+               "message": "Yes, of course.",
+               "character": "eRslCuy7",
+               "goesTo": [
+                  "g0DgJZ6X"
+               ]
+            },
+            {
+               "id": "RsEp79un",
+               "type": "answer",
+               "message": "Here we go again...",
+               "character": "eRslCuy7",
+               "goesTo": [
+                  "-sCAlQqi"
+               ]
+            },
+            {
+               "id": "g0DgJZ6X",
+               "type": "text",
+               "message": "Nice",
+               "character": "J_2HaWpj",
+               "goesTo": []
+            },
+            {
+               "id": "-sCAlQqi",
+               "type": "text",
+               "message": "...and you know the emptiness of existence plagues us all with dread and darkness, but overall...",
+               "character": "J_2HaWpj",
+               "goesTo": [
+                  "la6hPnIH"
+               ]
+            },
+            {
+               "id": "Vl6u-CNb",
+               "type": "text",
+               "message": "None, I was hoping you were gonna go like \"oh yeah, definitely I heard Ashley got pregnant\" or something.",
+               "character": "J_2HaWpj",
+               "goesTo": [
+                  "NeGZb0_B"
+               ]
+            },
+            {
+               "id": "pDPd_iEg",
+               "type": "answer",
+               "message": "Which news?",
+               "character": "eRslCuy7",
+               "goesTo": []
+            },
+            {
+               "id": "NeGZb0_B",
+               "type": "answer",
+               "message": "I see. Yeah, I got none. But I heard it's gonna rain tomorrow.",
+               "character": "eRslCuy7",
+               "goesTo": [
+                  "g0DgJZ6X"
+               ]
+            }
+         ]
+      }
+   ]
+}
